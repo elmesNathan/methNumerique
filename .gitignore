@@ -1,0 +1,5 @@
+app_flask/
+include/
+Lib/
+Scripts/
+pyvenv.cfg
