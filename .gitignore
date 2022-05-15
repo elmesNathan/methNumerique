@@ -2,4 +2,5 @@ app_flask/
 include/
 Lib/
 Scripts/
+temp_test/
 pyvenv.cfg
